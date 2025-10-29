@@ -7,7 +7,7 @@ public class Main {
   
         Calculadora calc = new Calculadora();
         
-        // Testando as três versões do método somar()
+   
         int resultado1 = calc.somar(5, 10);
         System.out.println("Resultado: " + resultado1 + "\n");
         
